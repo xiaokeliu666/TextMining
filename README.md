@@ -2,17 +2,6 @@
 ## Dataset
 Data Set Information:
 It contains sentences labelled with positive or negative sentiment. 
-
-======= 
-Format: 
-======= 
-sentence score 
-
-
-
-======= 
-Details: 
-======= 
 Score is either 1 (for positive) or 0 (for negative)	
 The sentences come from three different websites/fields: 
 
