@@ -17,3 +17,4 @@ We attempted to select sentences that have a clearly positive or negative connot
 - Implemented and compared two techniques of vectorization: CountVectorizer and TfidfVectorizer
 - Applied state‐of‐the‐art algorithms including Naive Bayes and SVM to uncover patterns hidden in
 the data
+Run file 'sentiment.py' to get the report at console
